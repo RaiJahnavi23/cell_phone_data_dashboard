@@ -59,7 +59,7 @@ The dataset includes the following key fields:
 ## 📊 Dashboard / Output
 
 ### 🔹 Overall Sales Dashboard
-![Overall Dashboard](dashboard_overview (1).png)
+![Overall Dashboard](dashboard_overview.png)
 
 ### 🔹 MTD (Month-to-Date) Dashboard
 ![MTD Dashboard](mtd_dashboard.png)
